@@ -8,7 +8,6 @@ public class demo2 {
 
 	
 		System.out.println("Hola desde la rama");
-		System.out.println("Hola desde la rama1");
 
 	}
 }
